@@ -24,7 +24,6 @@ alert("Olá! Seja bem-vindo!")
                 const leaf = document.createElement("div");
                 leaf.className = "leaf";
 
-                // Defina uma posição aleatória para a folha
                 const x = window.innerWidth - 490;
 				const y = Math.random() * window.innerHeight - 200;
 
